@@ -14,3 +14,6 @@ Big Data analysis of Citi Bike trips using PySpark and SparkML
 - SparkML
 - Pandas
 - Matplotlib
+
+## Notebook
+If GitHub cannot preview the notebook, download `CitiBike_Analysis.ipynb` and open it using Google Colab.
